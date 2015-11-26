@@ -1,6 +1,6 @@
 {
     "name": "fluidtypo3/flux-capacitor",
-    "description": "Alternative FormEngine integrations for Flux",
+    "description": "Alternative FormEngine integrations",
     "type": "typo3-cms-extension",
     "version": "1.0.0",
     "homepage": "http://fluidtypo3.org",
@@ -17,8 +17,5 @@
     },
     "require-dev": {
         "fluidtypo3/development": "*"
-    },
-    "require": {
-        "fluidtypo3/flux": "^7.3"
     }
 }
